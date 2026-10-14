@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Claude-Bill-Optimizer/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Claude-Bill-Optimizer?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Claude-Bill-Optimizer/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Claude-Bill-Optimizer?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Claude-Bill-Optimizer/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Claude-Bill-Optimizer?style=flat-square&color=blue" alt="Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Claude-Bill-Optimizer/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Claude-Bill-Optimizer?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Claude-Bill-Optimizer/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
@@ -58,60 +58,60 @@ The sector is currently **moderately-to-highly fragmented**: while hyperscalers 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Ranked strictly in descending order by GitHub Stars.*
+*Ranked strictly in descending order by GitHub_Stars.*
 
-1. **[Graphify](https://github.com/Graphify-Labs/graphify)** [![GitHub stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=social&color=white)](https://github.com/Graphify-Labs/graphify/stargazers)  
+1. **[Graphify](https://github.com/Graphify-Labs/graphify)** [![GitHub_Stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=social&color=white)](https://github.com/Graphify-Labs/graphify/stargazers)  
    Turns an entire codebase, schema files, and documentation into a queryable, persistent knowledge graph using deterministic AST parsing. Delivers **up to 71.5x fewer tokens per query** compared to full-file reads without requiring external vector stores or LLM indexing keys. Supports TypeScript, JavaScript, Python, Go, Rust, Java, C#, and Ruby.
 
-2. **[Caveman](https://github.com/JuliusBrussee/caveman)** [![GitHub stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=social&color=white)](https://github.com/JuliusBrussee/caveman/stargazers)  
+2. **[Caveman](https://github.com/JuliusBrussee/caveman)** [![GitHub_Stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=social&color=white)](https://github.com/JuliusBrussee/caveman/stargazers)  
    Lightweight skill and plugin for AI coding agents (Claude Code, Cursor, Codex) that compresses prose output to slash token expenditure by up to **65%**. Strips filler words and pleasantries while strictly preserving code blocks, error logs, and technical precision. Includes `/caveman-compress` for session memory compression and auto-clarity fallback guards.
 
-3. **[RTK (Rust Token Killer)](https://github.com/rtk-ai/rtk)** [![GitHub stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=social&color=white)](https://github.com/rtk-ai/rtk/stargazers)  
+3. **[RTK (Rust Token Killer)](https://github.com/rtk-ai/rtk)** [![GitHub_Stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=social&color=white)](https://github.com/rtk-ai/rtk/stargazers)  
    Ultra-fast CLI proxy and `PreToolUse` hook written in Rust that compacts shell command outputs (e.g., `git status`, test runs, directory trees) before they reach Claude's context window. Reduces consumption by **60–90%** without breaking prompt cache invariants. Built-in `rtk gain` dashboard provides real-time token tracking.
 
-4. **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** [![GitHub stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social&color=white)](https://github.com/diegosouzapw/OmniRoute/stargazers)  
+4. **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** [![GitHub_Stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social&color=white)](https://github.com/diegosouzapw/OmniRoute/stargazers)  
    Self-hosted, local-first AI gateway that unifies 90+ providers and thousands of models behind a single OpenAI/Anthropic-compatible endpoint. Features auto-fallback routing on rate limits, quota tracking, zero telemetry, and built-in RTK/Caveman token compression integration.
 
-5. **[Headroom](https://github.com/headroomlabs-ai/headroom)** [![GitHub stars](https://img.shields.io/github/stars/headroomlabs-ai/headroom?style=social&color=white)](https://github.com/headroomlabs-ai/headroom/stargazers)  
+5. **[Headroom](https://github.com/headroomlabs-ai/headroom)** [![GitHub_Stars](https://img.shields.io/github/stars/headroomlabs-ai/headroom?style=social&color=white)](https://github.com/headroomlabs-ai/headroom/stargazers)  
    One-function compression layer and local proxy for LLM context. Uses ML-based text compression, JSON array deduplication (SmartCrusher), and CacheAligner to shrink payloads prior to dispatching API calls to Anthropic or OpenAI.
 
-6. **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
+6. **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub_Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
    Universal proxy server that interfaces 100+ LLMs with standard OpenAI/Anthropic schemas. Provides unified token spend tracking, virtual API keys, team-based budget caps, failover routing, and prompt caching to prevent accidental billing spikes.
 
-7. **[Repomix](https://github.com/yamadashy/repomix)** [![GitHub stars](https://img.shields.io/github/stars/yamadashy/repomix?style=social&color=white)](https://github.com/yamadashy/repomix/stargazers)  
+7. **[Repomix](https://github.com/yamadashy/repomix)** [![GitHub_Stars](https://img.shields.io/github/stars/yamadashy/repomix?style=social&color=white)](https://github.com/yamadashy/repomix/stargazers)  
    Packs entire code repositories into clean, AI-optimized markdown/XML representations with built-in token counting, file exclusion filters, and compression switches to feed minimal context into AI coding assistants.
 
-8. **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** [![GitHub stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social&color=white)](https://github.com/Portkey-AI/gateway/stargazers)  
+8. **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social&color=white)](https://github.com/Portkey-AI/gateway/stargazers)  
    High-performance, ultra-fast AI gateway with automated retries, semantic caching, request timeouts, and load balancing across providers to dramatically reduce latency and redundant API invocations.
 
-9. **[Bifrost](https://github.com/maximhq/bifrost)** [![GitHub stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social&color=white)](https://github.com/maximhq/bifrost/stargazers)  
+9. **[Bifrost](https://github.com/maximhq/bifrost)** [![GitHub_Stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social&color=white)](https://github.com/maximhq/bifrost/stargazers)  
    Ultra-fast enterprise AI gateway built in Go by Maxim AI with microsecond overhead. Provides virtual keys, automatic model failover chains, adaptive load balancing, and budget governance for heavy LLM workloads.
 
-10. **[code2prompt](https://github.com/mufeedvh/code2prompt)** [![GitHub stars](https://img.shields.io/github/stars/mufeedvh/code2prompt?style=social&color=white)](https://github.com/mufeedvh/code2prompt/stargazers)  
+10. **[code2prompt](https://github.com/mufeedvh/code2prompt)** [![GitHub_Stars](https://img.shields.io/github/stars/mufeedvh/code2prompt?style=social&color=white)](https://github.com/mufeedvh/code2prompt/stargazers)  
     CLI utility that converts source trees into clean prompts formatted with token count awareness, templating support, and custom `.gitignore`-style filtering to trim irrelevant context.
 
-11. **[LLMLingua](https://github.com/microsoft/LLMLingua)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/LLMLingua?style=social&color=white)](https://github.com/microsoft/LLMLingua/stargazers)  
+11. **[LLMLingua](https://github.com/microsoft/LLMLingua)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?style=social&color=white)](https://github.com/microsoft/LLMLingua/stargazers)  
     Research-grade prompt compression algorithm from Microsoft. Leverages lightweight compact models to prune redundant and low-information tokens from long contexts, saving up to **20x tokens** while preserving downstream reasoning.
 
-12. **[Helicone Gateway & OSS Core](https://github.com/Helicone/helicone)** [![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=social&color=white)](https://github.com/Helicone/helicone/stargazers)  
+12. **[Helicone Gateway & OSS Core](https://github.com/Helicone/helicone)** [![GitHub_Stars](https://img.shields.io/github/stars/Helicone/helicone?style=social&color=white)](https://github.com/Helicone/helicone/stargazers)  
     Open-source LLM observability, cost analytics, and proxy engine. Features exact-match and semantic caching, rate limiting, and comprehensive spend breakdown dashboards by user or task.
 
-13. **[claude-token-efficient](https://github.com/drona23/claude-token-efficient)** [![GitHub stars](https://img.shields.io/github/stars/drona23/claude-token-efficient?style=social&color=white)](https://github.com/drona23/claude-token-efficient/stargazers)  
+13. **[claude-token-efficient](https://github.com/drona23/claude-token-efficient)** [![GitHub_Stars](https://img.shields.io/github/stars/drona23/claude-token-efficient?style=social&color=white)](https://github.com/drona23/claude-token-efficient/stargazers)  
     Drop-in `CLAUDE.md` instructions and configuration templates that direct Claude to keep replies terse and output token-conscious on intensive coding loops without altering source code.
 
-14. **[Paritok](https://github.com/Paritok-official/paritok-4b-v1)** [![GitHub stars](https://img.shields.io/github/stars/Paritok-official/paritok-4b-v1?style=social&color=white)](https://github.com/Paritok-official/paritok-4b-v1/stargazers)  
+14. **[Paritok](https://github.com/Paritok-official/paritok-4b-v1)** [![GitHub_Stars](https://img.shields.io/github/stars/Paritok-official/paritok-4b-v1?style=social&color=white)](https://github.com/Paritok-official/paritok-4b-v1/stargazers)  
     Context compressor model and proxy that intercepts requests via `ANTHROPIC_BASE_URL` to compress prompts and prune tool schema overhead before forwarding upstream, returning intact responses with cache-aware cost statistics.
 
-15. **[Token Savior](https://github.com/Mibayy/token-savior)** [![GitHub stars](https://img.shields.io/github/stars/Mibayy/token-savior?style=social&color=white)](https://github.com/Mibayy/token-savior/stargazers)  
+15. **[Token Savior](https://github.com/Mibayy/token-savior)** [![GitHub_Stars](https://img.shields.io/github/stars/Mibayy/token-savior?style=social&color=white)](https://github.com/Mibayy/token-savior/stargazers)  
     MCP server that indexes repositories by AST symbols (functions, classes, call trees) so models navigate via pointers instead of reading entire raw files (**97% fewer chars injected**). Includes persistent SQLite WAL memory and bash output compaction.
 
-16. **[Claude Token Optimizer](https://github.com/nadimtuhin/claude-token-optimizer)** [![GitHub stars](https://img.shields.io/github/stars/nadimtuhin/claude-token-optimizer?style=social&color=white)](https://github.com/nadimtuhin/claude-token-optimizer/stargazers)  
+16. **[Claude Token Optimizer](https://github.com/nadimtuhin/claude-token-optimizer)** [![GitHub_Stars](https://img.shields.io/github/stars/nadimtuhin/claude-token-optimizer?style=social&color=white)](https://github.com/nadimtuhin/claude-token-optimizer/stargazers)  
     Lightweight utilities and configurations specifically designed to monitor, budget, and reduce token usage for Claude API invocations and Claude Code sessions.
 
-17. **[LeanCtx](https://github.com/jia-gao/leanctx)** [![GitHub stars](https://img.shields.io/github/stars/jia-gao/leanctx?style=social&color=white)](https://github.com/jia-gao/leanctx/stargazers)  
+17. **[LeanCtx](https://github.com/jia-gao/leanctx)** [![GitHub_Stars](https://img.shields.io/github/stars/jia-gao/leanctx?style=social&color=white)](https://github.com/jia-gao/leanctx/stargazers)  
     Drop-in prompt compression library for production LLM applications based on LLMLingua-2. Cuts token bills by 40–60% with zero code architectural changes.
 
-18. **[Quicksilver](https://github.com/UditAkhourii/quicksilver)** [![GitHub stars](https://img.shields.io/github/stars/UditAkhourii/quicksilver?style=social&color=white)](https://github.com/UditAkhourii/quicksilver/stargazers)  
+18. **[Quicksilver](https://github.com/UditAkhourii/quicksilver)** [![GitHub_Stars](https://img.shields.io/github/stars/UditAkhourii/quicksilver?style=social&color=white)](https://github.com/UditAkhourii/quicksilver/stargazers)  
     Claude Code skill that delegates bulk judgment calls to lightweight local models, achieving up to 86% fewer Claude tokens on benchmarked multi-task evaluation suites.
 
 ---
@@ -150,7 +150,7 @@ Contributions are welcome! Please follow these simple steps:
 
 1. 🍴 **Fork the repository**
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-optimizer-tool`)
-3. 📝 **Add your tool**: Maintain the tabular format for SaaS products or the star badge format for open-source repositories (sorted by stars descending).
+3. 📝 **Add your tool**: Maintain the tabular format for SaaS products or the Stars_Badge format for open-source repositories (sorted by stars descending).
 4. 🚀 **Submit a Pull Request** with a concise description of your tool and benchmarks.
 
 ---
